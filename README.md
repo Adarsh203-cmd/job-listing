@@ -76,11 +76,11 @@ npm run dev
 ```
 The frontend will now be running at http://localhost:3000.
 # Technologies Used
-Backend:
--Django: For backend development and API creation.
--Django REST Framework: For building RESTful APIs.
--Python: The core language for backend logic.
--Postman: For testing API endpoints.
-Frontend:
--ReactJS: For building the user interface.
--JavaScript: For frontend development.
+## Backend:
+-**Django**: For backend development and API creation.
+-**Django REST Framework**: For building RESTful APIs.
+-**Python**: The core language for backend logic.
+-**Postman**: For testing API endpoints.
+## Frontend:
+-**ReactJS**: For building the user interface.
+-**JavaScript**: For frontend development.
